@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         // we are creating array list for storing our image urls.
         ArrayList<SliderData> sliderDataArrayList = new ArrayList<>();
 
